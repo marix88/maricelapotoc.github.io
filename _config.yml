@@ -1,0 +1,7 @@
+# Site settings
+title: My first Blog Title
+author: Maricela Potoc
+description: "A test trying to figure out how Jekyll works."
+
+# Build settings
+remote_theme: jekyll/hacker
