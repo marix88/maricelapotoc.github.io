@@ -7,3 +7,9 @@ description: "A test trying to figure out how Jekyll works."
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Preview your site on your computer
+gem "github-pages", group: :jekyll_plugins
+
+# Insert Google Analytics after I create a new GA property and un-comment the next line 
+# google_analytics: [Your Google Analytics tracking ID]
